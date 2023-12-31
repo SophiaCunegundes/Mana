@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+} 
+
+li {
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 16px;
+}
+
+img {
+    border: 5px solid white;
+    width: 1119;
+    height: 629;
+}
+

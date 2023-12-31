@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    border: 5px solid white;
+    text-align: center;
+}
+
+li {
+    color: white;
+    list-style: none;
+}
+
+a {
+    color: white;
+    list-style: none;
+}
+
